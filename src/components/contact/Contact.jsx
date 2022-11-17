@@ -8,7 +8,7 @@ import { BsTwitter } from "react-icons/bs";
 const Contact = () => {
   return (
     <div>
-      <section className="container">
+      <section className="container mb-28">
         {/* <div className="py-10">
           <div className="flex m-auto max-w-[226px] mb-8">
             <h1 className="font-bold text-4xl text-black ">Contact Us</h1>
